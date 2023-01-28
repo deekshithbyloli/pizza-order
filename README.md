@@ -5,7 +5,7 @@
 </div>
 <br>
 
-> Food Delivery app made using MERN stack (UNDER DEVLOPEMENT) <br>
+> Food Delivery app made using MERN stack  <br>
 > APP uses morden React and NodeJS features like Modules ,Skeletons , React Portals ,Redux thunk<br>
 > Followed MVC architecture and microservices for serever side
 
@@ -20,18 +20,12 @@
 - User can view there old orders and profile
 - User can add , edit or delete address while checkout
 
-## 🚀 Tech and Tools Used
+##Tech and Tools Used
 
 - React.JS ,Redux ,NodeJS ,ExpressJs,MongoDB
 - VS code,Heruko
 - React Icons,REST APIS ,JWT ,GoogleAPIs,Yup
 
-## 📸 Screenshots
-
-## Home Page
-
-<img src="./frontend/src/assests/mern-food-delivery-app.herokuapp.com_.png" width='800' height='auto'>
-<br>
 
 ## Pizza Builder Page
 
